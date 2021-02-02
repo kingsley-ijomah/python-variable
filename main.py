@@ -2,9 +2,9 @@
 Variable Assignment
 '''
 
-# # add 'kingsley' to the variable `name`
-# name = "Kingsley"
-# print(name)
+# add 'kingsley' to the variable `name`
+name = "Kingsley"
+print(name)
 
 # =======================
 
@@ -105,11 +105,11 @@ Object Reference
 # score  ----------> str 'Completed'
 #        ----------> int 100
 
-pb = 20
-score = 100
-score = 'Completed'
+# pb = 20
+# score = 100
+# score = 'Completed'
 
-print(type(score))
-print(type(pb))
-print(score)
-print(pb)2
+# print(type(score))
+# print(type(pb))
+# print(score)
+# print(pb)
